@@ -31,7 +31,7 @@
 > Below are some screenshots of the project in action:
 
 ###  Homepage  
-![Auth](demo/img2.png)
+![Auth](demo/img2.jpg)
 
 ###  Authentication  
 ![Auth](demo/img6.jpg)
