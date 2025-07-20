@@ -34,10 +34,10 @@
 ![Auth](demo/img2.png)
 
 ###  Authentication  
-![Auth](demo/img6.png)
+![Auth](demo/img6.jpg)
 
 ###  Seller Dashboard  
-![Seller](demo/img7.png)
+![Seller](demo/img7.jpg)
 
 ###  Buyer Dashboard  
 ![Buyer](demo/img2.jpg)
@@ -46,7 +46,7 @@
 ![Seller](demo/img3.jpg)
 
 ###  Property Filter Page  
-![Filter](demo/img4.png)
+![Filter](demo/img4.jpg)
 
 ---
 
