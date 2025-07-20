@@ -30,14 +30,23 @@
 
 > Below are some screenshots of the project in action:
 
-### 🧑‍💼 Seller Dashboard  
-![Seller](./demo/img4.png)
+###  Homepage  
+![Auth](demo/img2.png)
 
-### 🧑‍💼 Buyer Dashboard  
-![Seller](demo/img5.jpg)
+###  Authentication  
+![Auth](demo/img6.png)
 
-### 🔍 Property Filter Page  
-![Filter](./assets/filter.png)
+###  Seller Dashboard  
+![Seller](demo/img7.png)
+
+###  Buyer Dashboard  
+![Buyer](demo/img2.jpg)
+
+###  Testimonals  
+![Seller](demo/img3.jpg)
+
+###  Property Filter Page  
+![Filter](demo/img4.png)
 
 ---
 
