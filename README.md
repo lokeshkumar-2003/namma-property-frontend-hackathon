@@ -34,7 +34,7 @@
 ![Seller](./demo/img4.png)
 
 ### 🧑‍💼 Buyer Dashboard  
-![Seller](./demo/img5.png)
+![Seller](demo/img5.jpg)
 
 ### 🔍 Property Filter Page  
 ![Filter](./assets/filter.png)
